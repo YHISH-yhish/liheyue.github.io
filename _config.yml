@@ -22,7 +22,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "1.png"
-  name             : 李禾越
+  name             : Heyue Li(李禾越)
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student at Wuhan University."
   location         : "Wuhan, Hubei, China"
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/YHISH-yhish"
+  github           : "YHISH-yhish"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
